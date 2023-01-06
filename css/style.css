@@ -121,4 +121,37 @@
     color: #005FAC;
    
 }
+.my-plans{
+    
+    
+
+}
+.my-plans-h1{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin: 35px 0;
+
+}
+.plans{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+}
+.plans-h1{
+    color: #0e0101;
+    font-weight: 700;
+    margin: 20px 0;
+
+
+}
+.plans-p{
+    color: #737272;
+    font-weight: 500;
+
+
 }
