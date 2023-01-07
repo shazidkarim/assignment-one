@@ -3,7 +3,6 @@
     padding: 0;
     font-family: work sans, sans-serif;
 }
-
 .banner {
     background-image: url(/images/banner/banner3.png);
     height: 100vh;
@@ -14,32 +13,23 @@
     display: flex;
     justify-content: right;
 }
-
 .banner-content {
     width: 300px;
     height: 300px;
     text-align: right;
     padding-right: 100px;
     padding-top: 200px;
-
-
-
 }
-
 .banner-content h1 {
     color: #FFFFFF;
     font-weight: 700;
     margin-bottom: 24px;
-
 }
-
 .banner-content p {
     color: #FFFFFF;
     font-weight: 400;
     margin-bottom: 24px;
-
 }
-
 .btn-button {
     color: #005FAC;
     font-size: 20px;
@@ -51,20 +41,16 @@
     width: 160px;
     height: 64px;
 }
-
 .about-me {
     margin: 0 200px;
     display: flex;
     align-items: center;
-
 }
-
 .about-me-h1 {
     color: #005FAC;
     font-weight: 700;
     font-size: 40px;
     margin-bottom: 15px;
-
 }
 .about-me-p {
     color: #005FAC;
@@ -82,7 +68,6 @@
     border-radius: 5px;
     width: 160px;
     height: 64px;
-
 }
 .about-me-img{
    height: 700px;
@@ -93,7 +78,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 .failure-main{
     height: 300px;
@@ -104,7 +88,6 @@
     font-weight: 700;
     font-size: 40px;
     margin-bottom: 15px;
-
 }
 .failure-p{
     color: #005FAC;
@@ -123,8 +106,6 @@
 }
 .my-plans{
     margin-bottom: 100px;
-    
-
 }
 .my-plans-h1{
     color: #151414;
@@ -133,27 +114,21 @@
     margin-bottom: 15px;
     text-align: center;
     margin: 35px 0;
-
 }
 .plans{
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-align: center;
-
 }
 .plans-h1{
     color: #0e0101;
     font-weight: 700;
     margin: 20px 0;
-
-
 }
 .plans-p{
     color: #737272;
     font-weight: 500;
-
-
 }
 .call-now{
     width: 900px;
@@ -174,4 +149,39 @@
     color: #FFFFFF;
     font-weight: 700;
     margin-bottom: 24px;
+}
+footer{
+    background-color: #0e0101;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.future{
+    margin: 90px 100px;
+}
+.future-h1{
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.future-p{
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.subscribe-email{
+    padding:15px 30px ;
+    background-color: #0e0101;
+    list-style: none;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+.subscribe-submit{
+    padding:15px 30px ;
+    background-color: #0e0101;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-right: 30px;
 }
